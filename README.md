@@ -1,20 +1,83 @@
-<h1 align="center">Hi, I'm Reza FerdosAra</h1>
-<h3 align="center">A IT Lover from Iran</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaferdos&label=views&color=0e75b6&style=flat" alt="rezaferdos" /> </p>
-
-- 🌱 I’m currently learning **Network, Full-stack Developer**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **ferdosarareza82fr@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rezaferdosara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezaferdosara" height="30" width="40" /></a>
-<a href="https://instagram.com/reza.ferdosara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reza.ferdosara" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" alt="Technology Banner" width="100%" height="150px" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Reza FerdosAra 👋</h1>
+<h2 align="center">Full-stack Developer & Network Engineer</h2>
+<h3 align="center">IT Lover from Iran</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rezaferdos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🌱 About Me
+I am passionate about computers and technology, always eager to learn and improve my skills.  
+With a strong foundation in both software development and networking, I strive to deliver robust and scalable solutions.  
+My goal is to combine programming and networking expertise to grow as a versatile IT professional.
+
+---
+
+## 💻 Skills & Technologies
+
+### Front-End
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Materialize" width="30" height="30"/>
+</p>
+
+### Back-End
+<p>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" width="30" height="30"/>
+</p>
+
+### Database
+<p>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="30" height="30"/>
+</p>
+- Database design & implementation with SQL Server  
+- Querying and T-SQL programming
+
+### Version Control
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30"/>
+</p>
+
+### Networking Certifications
+- Network+  
+- Microsoft MCSA  
+- Microsoft MCSE  
+- CCNA (Cisco)
+
+---
+
+## 🎯 Current Focus & Goals
+Currently, I am focusing on developing robust APIs using ASP.Net Core and optimizing SQL Server databases.  
+I am also expanding my skills in front-end development and deepening my knowledge in networking and cybersecurity.  
+My ambition is to work on projects that integrate software development with network infrastructure, becoming a well-rounded IT engineer.
+
+---
+
+## 📫 Contact Me
+<p>
+  <a href="mailto:ferdosarareza82fr@gmail.com" target="_blank" rel="noopener noreferrer">📧 ferdosarareza82fr@gmail.com</a>  
+  &nbsp;|&nbsp;  
+  <a href="https://linkedin.com/in/rezaferdosara" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+  &nbsp;|&nbsp;  
+  <a href="https://github.com/rezaferdos" target="_blank" rel="noopener noreferrer">GitHub</a>  
+  &nbsp;|&nbsp;  
+  <a href="https://instagram.com/reza.ferdosara" target="_blank" rel="noopener noreferrer">Instagram</a>
+</p>
+
+---
+
+> "Every day is an opportunity to learn something new and become better in my professional journey."
 
