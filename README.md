@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" alt="Technology Banner" width="100%" height="150px" />
+  <img src="/Header.jpg" alt="Technology Banner" width="100%" height="150px" />
 </p>
 
 <h1 align="center">Hi, I'm Reza FerdosAra 👋</h1>
