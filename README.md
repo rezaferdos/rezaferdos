@@ -62,7 +62,7 @@ My goal is to combine programming and networking expertise to grow as a versatil
 ## 🎯 Current Focus & Goals
 At the moment, I am concentrating on advancing my expertise in networking, particularly Cisco technologies, and pursuing reputable certifications such as CCNA and CCNP. Parallel to this, I am deeply engaged in improving my programming skills by focusing on design patterns, which enable me to write cleaner, more maintainable, and scalable code. Additionally, I am dedicating time to enhancing my knowledge of SQL to better design and optimize databases.
 
-My ambition is to integrate these skills—network engineering and software development—to build robust, efficient systems that bridge both domains. I strive to become a versatile IT engineer capable of delivering high-quality solutions that meet modern technological challenges. Continuous learning and applying best practices remain at the core of my professional journey.
+My ambition is to integrate these skills network engineering and software development to build robust, efficient systems that bridge both domains. I strive to become a versatile IT engineer capable of delivering high-quality solutions that meet modern technological challenges. Continuous learning and applying best practices remain at the core of my professional journey.
 
 ---
 
