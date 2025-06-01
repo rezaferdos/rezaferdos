@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Header1.png" alt="Technology Banner" width="100%" height="200px" />
+  <img src="/Header1.png" alt="Technology Banner" width="100%" height="160px" />
 </p>
 
 <h1 align="center">Hi, I'm Reza FerdosAra 👋</h1>
